@@ -1,3 +1,1 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
-
+This was a group project focused on building a predictive model for Australian weather data. My main contribution was the machine learning pipeline—specifically implementing a downsampling strategy to handle class imbalance and using 5-fold cross-validation to find the optimal neighbors for our KNN model.
